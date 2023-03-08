@@ -1,0 +1,6 @@
+npm init //creating for package.json file and dependancies
+npm i body-parser cors express mysql2 nodemon  //mysql2 if mysql varsion >=8.0 else for lower version mysql  
+create index.js file
+
+
+npm run server //for run the server localhost:5000 
